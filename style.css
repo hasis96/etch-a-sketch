@@ -17,8 +17,8 @@ button {
 
 #container {
     display: grid;
-    height: 1000px;
-    width: 1000px;
+    height: 500px;
+    width: 500px;
     border: solid 1px;
     grid-template-columns: repeat(16, 1fr);
     grid-template-rows: repeat(16, 1fr);
